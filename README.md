@@ -1,13 +1,15 @@
 # Spatial Data Science 
 Application of GeoSpatial Data Science for Business use cases 
-Use Case : Telecom domain network specialist and infrasturcture planning manager need a netowrk footprint budget analysis where they may need to know the proximity of old network site from new network site  for example , a buffer analysis may be required to find out how many new sites are available within 1200 meters of any existing older network site.
-This kind of analysis will help make a strategic decison on approving new proposed network site.
+Use Case : Telecom domain network specialist and infrasturcture planning manager may need a network footprint budget analysis where they need to know the proximity of old network site from new network site.For example , a buffer analysis may be required to find out how many new sites are available within 1200 meters of any existing older network site.
+This kind of analysis will help to take a strategic decisions on approving budget for newly proposed network site.
 
 Approach : Proximity Analysis Part 1 
+
 This approach shows an existing analysis where shortest distance between old and new site were generated using a licensed properitery product from Spatial Eye BV GeoSpatial Analysis tool.Data export provided shapefile which was used as input to render the analysis on an interactive map view making use of open source libraries like geopandas and folium,shapely in python.
 
 Approach : Proximity Analysis Part 2
-This approach involves the actual proximity analysis that uses input data source as excel consisting of old and new site records along with their coordinates(Lat/Lon) values.All libraries used are same as above approach.
+
+This approach involves the actual proximity analysis that uses input data source as excel consisting of old and new site records along with their coordinates(Lat/Lon) values.All libraries used are same as in above approach.
 
 Outcome & Benefits:
 
