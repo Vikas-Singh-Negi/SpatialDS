@@ -18,4 +18,4 @@ Outcome & Benefits:
 3. Visual reception of cluster of old sites and new sites and their relative distance on map make sit incredically easy to do the estimation. 
 
 
-[![Spatial Data Science using Python:Proximity Analysis](https://img.youtube.com/vi/49UftaLGXGU)](https://www.youtube.com/watch?v=49UftaLGXGU)
+[![Spatial Data Science using Python:Proximity Analysis](https://img.youtube.com/vi/49UftaLGXGU/0.jpg)](https://www.youtube.com/watch?v=49UftaLGXGU)
