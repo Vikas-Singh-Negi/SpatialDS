@@ -1,5 +1,6 @@
 # Spatial Data Science 
 Application of GeoSpatial Data Science for Business use cases 
+
 Use Case : Telecom domain network specialist and infrasturcture planning manager may need a network footprint budget analysis where they need to know the proximity of old network site from new network site.For example , a buffer analysis may be required to find out how many new sites are available within 1200 meters of any existing older network site.
 This kind of analysis will help to take a strategic decisions on approving budget for newly proposed network site.
 
@@ -17,7 +18,7 @@ Outcome & Benefits:
 
 2. Interactive map view further adds a flexibility to end user to interact with the analyzed data
 
-3. Visual reception of cluster of old sites and new sites and their relative distance on map make sit incredically easy to do the estimation. 
+3. Visual reception of cluster of old sites and new sites and their relative distance on map makes it incredibly easy to do the budget estimation. 
 
 
 [![Spatial Data Science using Python:Proximity Analysis](https://img.youtube.com/vi/49UftaLGXGU/0.jpg)](https://www.youtube.com/watch?v=49UftaLGXGU)
