@@ -1,5 +1,5 @@
 # Spatial Data Science 
-Application of GeoSpatial Data Science for Business use cases 
+Application of GeoSpatial Data Science in Business use cases 
 
 Use Case : Telecom domain network specialist and infrasturcture planning manager may need a network footprint budget analysis where they need to know the proximity of old network site from new network site.For example , a buffer analysis may be required to find out how many new sites are available within 1200 meters of any existing older network site.
 This kind of analysis will help to take a strategic decisions on approving budget for newly proposed network site.
